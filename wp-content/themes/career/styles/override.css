@@ -1,0 +1,22 @@
+
+/* Content View */
+
+.content{
+	padding: 10px 10px 20px 10px !important;
+	margin: 0 0 10px 0 !important;
+}
+
+.button{
+	margin: 0px !important;
+}
+
+.card-large-layout p {
+	padding: 20px 10px 20px 10px !important;
+	margin: 0px !important;
+}
+
+.heading-strip,
+.content-fullscreen, 
+.badge-store {
+	margin-bottom: 0px !important;
+}

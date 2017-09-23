@@ -1,0 +1,24 @@
+/*
+Theme Name: Career Portal
+Theme URI: http://careerportal.com.ng
+Description: A WordPress theme for Career Portal
+Version: 1.0
+Tags: responsive, white, bootstrap, islam, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+Some other comments or urls here that will prove useful reminders to you or another developer
+*/
+
+/*@import url('https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic');*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('styles/font-awesome.css');
+@import url('styles/style.css');
+@import url('styles/override.css');
+@import url('styles/skin.css');
+@import url('styles/framework.css');
+@import url('styles/flexslider.css');
+/*@import url('bootstrap/css/bootstrap.min.css');*/
+@import url('styles/bootstrap.min.css');
